@@ -7,7 +7,7 @@ def get_input():
     return a, b
 
 def Add(a, b):
-    pass
+    return a+b
 
 def Sub(a, b):
     pass
