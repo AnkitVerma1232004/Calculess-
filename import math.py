@@ -16,7 +16,7 @@ def Mul(a, b):
     pass  
 
 def Div(a, b):
-    pass
+    return a/b
 
 
 def calculator():
